@@ -1,0 +1,92 @@
+.col{
+    display: flex;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    width: auto;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+}
+
+.Sed{
+    background-color: orange;
+    padding: 30px;
+    display: flexbox;
+    flex: 1;
+}
+
+.Suv{
+    background-color: steelblue;
+    padding: 30px;
+    display: flexbox;
+    flex: 1;
+}
+#Suv,#luxury,#Sed{
+    color: white;
+    
+}
+
+.luxury{
+    background-color: seagreen;
+    padding: 30px;
+    display: flexbox;
+    flex:1 ;
+}
+
+ 
+
+#but1{
+    padding: 10px;
+    border-color: wheat;
+    border-radius: 50px;
+    color: orange;
+    
+
+}
+#but1:hover{
+    background-color: transparent;
+    color: wheat;
+    border: 3;
+    border-color: wheat;
+}
+
+#but2{
+    padding: 10px;
+    
+    border-radius: 50px;
+    color: steelblue;
+}
+
+#but2:hover{
+    background-color: transparent;
+    color: wheat;
+    border: 3;
+    border-color: wheat;
+}
+
+#but3{
+    padding: 10px;
+     
+    border-radius: 50px;
+    color: seagreen;
+}
+
+#but3:hover{
+    background-color: transparent;
+    color: wheat;
+    border: 3;
+    border-color: wheat;
+}
+
+#im{
+    float:left;
+}
+
+#tx{
+    color: white;
+}
+
+ 
+ 
