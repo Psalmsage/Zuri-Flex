@@ -1,3 +1,3 @@
 README.md
 https://github.com/Psalmsage/Zuri-Flex
-http://psalmsage.github.io/-Django-2
+https://psalmsage.github.io/Zuri-Flex/
